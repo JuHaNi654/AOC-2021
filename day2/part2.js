@@ -1,5 +1,4 @@
 const { readFile } = require('fs');
-const { performance } = require('perf_hooks');
 
 const main = () => {
   try {
